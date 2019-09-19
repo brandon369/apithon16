@@ -1,0 +1,51 @@
+
+#img-st{
+    width:14em;
+    height:14em;
+    border-radius:7em;
+    margin: auto;
+}
+
+#padding{
+    padding-top: 1em;
+    padding-right: 1em;
+}
+
+#padding-i{
+    padding-top:0.5em;
+    color: #031c8c;
+}
+
+#color-azul{
+    background-color: #031c8c;
+}
+
+#margin-inicio{
+    margin: 2em;
+}
+
+#margin-ins{
+    margin-left: 3.2em;
+    margin-bottom: 1em;
+    margin-top: 2em;
+}
+
+#margin-tarjeta{
+    width: 50%;
+}
+
+#gris{
+    color: gray;
+}
+
+#mujer{
+    background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url("../img/mujer.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+ background-color: #cccccc;
+}
+
+#blanco{
+    color: #ffffff;
+}
